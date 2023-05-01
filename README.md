@@ -34,6 +34,6 @@ You should now be able to access the API at http://localhost:3000/graphql
     Sequelize ORM
     Docker
     Postgres
-    Postman(for testing)
+    GraphQL
 
     
