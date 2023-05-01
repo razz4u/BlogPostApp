@@ -23,7 +23,6 @@ This will start 3 contanier : application, database and pgadmin.
 
 ## Database:
 - Create DB with name BlogDB
-- Load the 
 
 You should now be able to access the API at http://localhost:3000/graphql
 
